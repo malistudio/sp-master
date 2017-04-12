@@ -1,0 +1,183 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Project-Id-Version: SharePop\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: SharePop\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 1.8.11\n"
+"Language: de\n"
+
+#. Text in function
+#: sp-master/assets/functions/comments.php:18
+msgid " F jS, Y - g:ia"
+msgstr " F jS, Y - g:ia"
+
+#. Text in function
+#: sp-master/assets/functions/comments.php:17
+msgid "%s"
+msgstr "%s"
+
+#. Text in function
+#: sp-master/assets/functions/comments.php:19
+msgid "(Edit)"
+msgstr "(bearbeiten)"
+
+#. Text in function
+#: sp-master/assets/functions/related-posts.php:1
+msgid "<h4>Related Posts</h4>"
+msgstr "<h4>Ähnliche Posts</h4>"
+
+#. Text in echo
+#: sp-master/comments.php:40
+msgid "Comment navigation"
+msgstr "Kommentar Navigation"
+
+#. Text in echo
+#: sp-master/comments.php:56
+msgid "Comments are closed."
+msgstr "Kommentarfunktion ist geschlossen"
+
+#. Text in echo
+#: sp-master/404.php:19
+msgid "Epic 404 - Page Not Found"
+msgstr "Seite nicht gefunden"
+
+#. Text in echo
+#: sp-master/parts/nav-addon.php:10
+msgid "Log In"
+msgstr "Einloggen"
+
+#. Text in echo
+#: sp-master/parts/nav-offcanvas-topbar.php:9
+msgid "MENU"
+msgstr "MENÜ"
+
+#. Text in echo
+#: sp-master/footer.php:19
+msgid "Made with"
+msgstr ""
+
+#. Text in echo
+#: sp-master/parts/nav-offcanvas.php:10 sp-master/parts/nav-title-bar.php:7
+msgid "Menu"
+msgstr "Menü"
+
+#. Text in function
+#: sp-master/comments.php:44
+msgid "Newer Comments"
+msgstr "Neue Kommentare"
+
+#. Text in function
+#: sp-master/comments.php:43
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#. Text in echo
+#: sp-master/parts/content-missing.php:24
+msgid "Oops, Post Not Found!"
+msgstr "Upps, Post nicht gefunden"
+
+#. Text in function
+#: sp-master/parts/loop-single.php:15
+msgid "Pages:"
+msgstr "Seiten:"
+
+#. Text in echo
+#: sp-master/template-homepage.php:20
+msgid "Pick, Promote, Earn"
+msgstr "Wähle, Wirb, Verdiene"
+
+#. Text in echo
+#: sp-master/sidebar-blog.php:13 sp-master/sidebar.php:12
+msgid "Please activate some Widgets."
+msgstr "Bitte aktivieren Sie einige Widgets."
+
+#. Text in echo
+#: sp-master/taxonomy-custom_cat.php:25
+msgid "Posts Categorized:"
+msgstr "Beiträge kategorisiert:"
+
+#. Text in function
+#: sp-master/index.php:24 sp-master/parts/loop-archive-grid.php:28
+#: sp-master/parts/loop-archive.php:15
+msgid "Read more..."
+msgstr "Mehr…"
+
+#. Text in echo
+#: sp-master/search.php:4 sp-master/search.php:17
+msgid "Search Results for:"
+msgstr "Suchresultate für:"
+
+#. Text in echo
+#: sp-master/parts/nav-addon.php:13
+msgid "Sign Up"
+msgstr "Registrieren"
+
+#. Text in echo
+#: sp-master/parts/content-missing.php:6
+msgid "Sorry, No Results."
+msgstr "Sorry, keine Ergebnisse gefunden"
+
+#. Text in function
+#: sp-master/parts/loop-single.php:16
+msgid "Tags:"
+msgstr "Tags:"
+
+#. Text in function
+#: sp-master/assets/functions/admin.php:1
+msgid "The RSS Feed is either empty or unavailable."
+msgstr ""
+
+#. Text in echo
+#: sp-master/404.php:23
+msgid "The article you were looking for was not found, but maybe try looking again!"
+msgstr "Der Artikel, den Sie gesucht haben, wurde nicht gefunden."
+
+#. Text in echo
+#: sp-master/parts/content-missing.php:18
+msgid "This is the error message in the parts/content-missing.php template."
+msgstr ""
+
+#. Text in echo
+#: sp-master/parts/content-missing.php:36
+msgid "This is the error message in the parts/missing-content.php template."
+msgstr ""
+
+#. Text in echo
+#: sp-master/parts/content-missing.php:10
+msgid "Try your search again."
+msgstr "Versuchen Sie Ihre Suche erneut."
+
+#. Text in echo
+#: sp-master/parts/content-missing.php:28
+msgid "Uh Oh. Something is missing. Try double checking things."
+msgstr ""
+
+#. Text in echo
+#: sp-master/assets/functions/comments.php:23
+msgid "Your comment is awaiting moderation."
+msgstr "Bitte warte bis dein Kommentar freigegeben wurde."
+
+#. Text in echo
+#: sp-master/parts/nav-addon.php:10
+msgid "http://sharepop.com/auth/sign_in"
+msgstr ""
+
+#. Text in echo
+#: sp-master/parts/nav-addon.php:13
+msgid "http://sharepop.com/auth/sign_up"
+msgstr ""
+
+#. Text in echo
+#: sp-master/footer.php:19
+msgid "in Berlin and Seoul."
+msgstr ""
+
+#. Text in function
+#: sp-master/assets/functions/admin.php:39
+msgid "j F Y @ g:i a"
+msgstr ""

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 160 160" style="enable-background:new 0 0 160 160;" xml:space="preserve">
+<style type="text/css">
+	.st2{fill:url(#SVGID_1_);}
+</style>
+<g class="lay-oval">
+	<circle class="st0" cx="80" cy="80" r="74"/>
+</g>
+<g class="lay-ring">
+	<path class="st1" d="M80,0C35.8,0,0,35.8,0,80c0,44.2,35.8,80,80,80s80-35.8,80-80C160,35.8,124.2,0,80,0z M80,154
+		c-40.9,0-74-33.1-74-74S39.1,6,80,6s74,33.1,74,74S120.9,154,80,154z"/>
+</g>
+<g class="lay-undershadow">
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="77.8567" y1="92.81" x2="127.2305" y2="142.1839">
+		<stop  offset="0" style="stop-color:#000000"/>
+		<stop  offset="1" style="stop-color:#000000;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st2" d="M149.8,104.7L120,75v40.1h-4.9h0h0h-70h0h0h-5L79.1,154c0.3,0,0.6,0,0.9,0C112.2,154,139.6,133.4,149.8,104.7z
+		"/>
+</g>
+<g class="lay-motiv">
+	<g>
+		<g>
+			<path class="st3" d="M94.9,51.9l6,10.4c0.8,1.4,0.3,3.3-1.1,4.1L93.5,70h9.8c3-2.4,3.9-6.8,1.9-10.2l-6-10.4l-4-6.9l-2-3.5
+				c-2.2-3.8-7.1-5.1-10.9-2.9l-38.1,22c-3.8,2.2-5.1,7.1-2.9,10.9l0.6,1h21.7L94.9,51.9z M46.6,62.4l38.1-22
+				c1.4-0.8,3.3-0.3,4.1,1.1l2,3.5L47.6,70l-2-3.5C44.7,65.1,45.2,63.2,46.6,62.4z"/>
+		</g>
+		<g>
+			<g>
+				<path class="st3" d="M61.2,91.2c-0.9-0.7-2-1.2-3.2-1.2c-2.8,0-5,2.2-5,5c0,1.2,0.5,2.4,1.2,3.2c0.9,1.1,2.3,1.8,3.8,1.8
+					c2.8,0,5-2.2,5-5C63,93.5,62.3,92.1,61.2,91.2z"/>
+			</g>
+			<g>
+				<circle class="st3" cx="80" cy="95" r="10"/>
+			</g>
+			<g>
+				<circle class="st3" cx="102" cy="95" r="5"/>
+			</g>
+			<g>
+				<path class="st3" d="M119.9,75H77.5H40v37.5v2.5v0h0h5h0h0h70h0h0h5L119.9,75L119.9,75L119.9,75z M115,105c-2.8,0-5,2.2-5,5H50
+					c0-2-1.2-3.8-3-4.6c-0.6-0.3-1.3-0.4-2-0.4V85c2.8,0,5-2.2,5-5h22.5H110c0,2.8,2.2,5,5,5V105z"/>
+			</g>
+		</g>
+	</g>
+</g>
+<g class="lay-overshadow">
+	<g class="st4">
+		<g>
+			<path class="st1" d="M90,95c0-2.7-1.1-5.2-2.9-7L73,102.1c1.8,1.8,4.3,2.9,7,2.9C85.5,105,90,100.5,90,95z"/>
+		</g>
+		<g>
+			<circle class="st1" cx="102" cy="95" r="5"/>
+		</g>
+		<g>
+			<path class="st1" d="M119.9,75h-19.9l-5,5H110c0,2.8,2.2,5,5,5v20c-2.8,0-5,2.2-5,5H65.1l-5,5H115h0h0h5L119.9,75L119.9,75
+				L119.9,75z"/>
+		</g>
+	</g>
+</g>
+</svg>
